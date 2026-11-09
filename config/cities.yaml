@@ -1,0 +1,40 @@
+cities:
+  - city_id: kozhikode_in
+    name: Kozhikode
+    country: India
+    country_code: IN
+    latitude: 11.2588
+    longitude: 75.7804
+    timezone: Asia/Kolkata
+
+  - city_id: bengaluru_in
+    name: Bengaluru
+    country: India
+    country_code: IN
+    latitude: 12.9716
+    longitude: 77.5946
+    timezone: Asia/Kolkata
+
+  - city_id: mumbai_in
+    name: Mumbai
+    country: India
+    country_code: IN
+    latitude: 19.0760
+    longitude: 72.8777
+    timezone: Asia/Kolkata
+
+  - city_id: london_gb
+    name: London
+    country: United Kingdom
+    country_code: GB
+    latitude: 51.5072
+    longitude: -0.1276
+    timezone: Europe/London
+
+  - city_id: new_york_us
+    name: New York
+    country: United States
+    country_code: US
+    latitude: 40.7128
+    longitude: -74.0060
+    timezone: America/New_York
